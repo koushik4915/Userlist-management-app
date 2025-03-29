@@ -1,4 +1,4 @@
-userlist-management-app
+**userlist-management-app**
 
 **Prerequisites**
 Before running this project, make sure you have the following installed:
