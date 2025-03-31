@@ -15,5 +15,9 @@ Node.js (Recommended: Latest LTS version)
 4.npm install react-router-dom
 5.npm install axios
 
+**Login credentials**
+Email : eve.holt@reqres.in
+Password : cityslicka
+
 **Deployed link of website**
 https://userlist-management-app.vercel.app/
